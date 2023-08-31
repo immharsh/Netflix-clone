@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/net-removebg-preview.png" type="image/x-icon">
+    <title>Netflix India – Watch TV Shows Online, Watch Movies Online</title>
+    <!-- css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <!-- icon kit -->
+    <script src="https://kit.fontawesome.com/5d44f58943.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section style="height: 100%;" class="container-fluid my-section1">
+        <div class="row mx-lg-5">
+            <div class="col-lg-3 col-md-3 my-logo-div mx-lg-5">
+                <img class="logo-img" style="margin-top: -7%; margin-left: 7%;" src="images/main-logo-removebg-preview.png" width="67%"
+                    height="130%" alt="">
+            </div>
+        
+
+            <div style="margin-left: 45%;" class="col-lg-2 row my-select-left col-md-2 mt-lg-4">
+               
+
+                    <select style="width:50%; height:47%;" class="form-select   bg-transparent text-white fa-globe" aria-label="Default select example">
+
+                        <option selected>English</option>
+
+                        <option value="2">हिन्दी</option>
+
+                    </select>
+                    <a style="width: 50%;" class="text-white " href="#"><button style="background-color: #ef0713; " class="text-white my-btn-text btn-danger my-first-btn fw-bold btn">
+                        Sign In
+                    </button></a>
+          
+            </div>
+            <!-- <div style="margin-left: -8%;" class="col-lg-1 col-md-1 text-start mt-4">
+                <a  class="text-white" href="#"><button style="background-color: #ef0713; " class="text-white btn-danger fw-bold btn">
+                        Sign In
+                    </button></a>
+
+            </div> -->
+       
+        </div>
+        <div style="margin-top: 12%;" class="row">
+            <div class="col-lg-8 mx-auto">
+                <h1 style="font-weight: 900; font-size: 48px;" class="text-white mb-3 text-center mx-auto">
+                    Unlimited movies, TV shows and more</h1>
+                <h4 class="text-white mt-0 fw-normal text-center mx-auto">Watch anywhere. Cancel anytime.</h4>
+               
+            </div>
+        </div>
+        <div class="mt-3  row">
+            <h4 class="text-white text-center fw-normal">Ready to watch? Enter your email to create or restart your
+                membership.
+            </h4>
+        </div>
+        <div  class="row mt-3 mx-1 align-items-center">
+            <div class="row" style="margin-bottom: 12%;">
+                <div  class=" col-lg-12 text-center">
+                    <input style="background-color: #17161696; width: 30%;" class=" p-3 rounded-2 my-input-holder " type="email" placeholder="Email address">
+                    <a class="text-white mx-1 text-decoration-none " href="#"> <button
+                        style="background-color: #ef0713; font-size: 18px;"
+                        class="btn p-3 px-5 rounded-2 fw-bold text-white btn-danger">Get
+                        Started <i class="fa-solid text-white fa-chevron-right"></i></button></a>
+                </div>
+            </div>
+           
+          
+
+        </div>
+
+    </section>
+  
+    <hr class="my-hr">
+    <section class="container-fluid bg-black">
+        <div class="row">
+            <div class="row align-self-center" style="margin-bottom: 3%; margin-top: 1%;">
+                <div style="margin-left: 11%; " class="col-lg-5 mt-lg-1 mt-5 my-float-sections align-self-center">
+                    <div class="text-start  ">
+                        <h1 style="font-weight: 1000; font-size: 50px;" class="text-white ">Enjoy on your TV</h1>
+                        <h4 class="text-white fw-normal mt-4">Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple
+                            TV, Blu-ray players and more.</h4>
+                    </div>
+                </div>
+                <div style="margin-bottom: 8%;" class="col-lg-5  my-vdo-sections mt-lg-5 text-start ">
+                    <div> <img class="img my-absolute-img position-absolute" src="images/section2.png" width="38%" alt=""></div>
+                    <div class="  d-flex justify-content-center flex-column text-start"> <video preload="true"
+                            autoplay="autoplay" loop="loop" volume="0" style="margin-top: 15%; margin-left: 12.5%;"
+                            src="images/vdo1.m4v" type="video/mp4" width="74%"></video></div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr class="my-hr">
+    <!-- <hr style="color: #232323;" class="my-hr bg-black"> -->
+    <section class="bg-black">
+        <div class="container-fluid">
+            <div  class="row third-row">
+                <div style="margin-top: 4%; margin-bottom: 1%;" class="col-lg-6 text-end img-to-hide">
+                    <img class="pic1" src="images/section3.jpg" height="80%" width="80%" alt="start-up">
+                 
+
+                </div>
+                <div class="col-lg-5 text-start mt-lg-0 mt-5 align-self-center">
+                    <!-- <h1 class="big_heading fw-bolder text-white">Download your shows to watch offline</h1>
+                    <p class="paragraph2 text-white">Save your favourites easily and always have something to watch.
+                    </p> -->
+                    <h1 style="font-weight: 1000; font-size: 50px;" class="text-white ">Download your shows to watch offline</h1>
+                    <h4 style="width: 95%;" class="text-white  fw-normal mt-4">Save your favourites easily and always have something to watch.</h4>
+
+                </div>
+                <div style="margin-top: 4%; margin-bottom: 1%;" class="col-lg-6 text-end my-hidden-img">
+                    <img class="pic1" src="images/section3.jpg" height="80%" width="80%" alt="start-up">
+                 
+
+                </div>
+    </section>
+    <hr class="my-hr">
+    <section class="container-fluid bg-black">
+        <div class="row">
+            <div class="row align-self-center" style="margin-bottom: 3%; margin-top: 1%;">
+                <div style="margin-left: 11%; " class="col-lg-5 mt-lg-1 my-float-sections mt-5 align-self-center">
+                    <div class="text-start  ">
+                        <h1 style="font-weight: 1000; font-size: 50px;" class="text-white ">Watch everywhere</h1>
+                        <h4 style="width: 90%;" class="text-white fw-normal mt-4">Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</h4>
+                    </div>
+                </div>
+                <div style="margin-bottom: 15%;" class="col-lg-5 my-vdo-sections mt-5 text-start ">
+                    <div> <img class="img my-absolute-img position-absolute" src="images/section4.png" width="38%" alt=""></div>
+                    <div class="  d-flex justify-content-center flex-column text-start"> <video preload="true"
+                            autoplay="autoplay" loop="loop" volume="0" style="margin-top: 5%; margin-left: 17%;"
+                            src="images/vdo2.m4v" type="video/mp4" width="60%"></video></div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr class="my-hr">
+   
+    <section class="container-fluid bg-black">
+        <div class="row gx-lg-0">
+            <div style="margin-top: 5%; margin-bottom: 2%;" class="col-lg-6 text-end img-to-hide">
+                <img src="images/section5.png" height="95%" width="90%" alt="">
+            </div>
+            <div  class="col-lg-6 mt-lg-0 mt-5 align-self-center">
+                <div class="text-start">
+                    <!-- <h1 class="text-white fw-bolder">Create profiles for kids</h1>
+                    <h4 class="text-white fw-normal">Send children on adventures with their favourite characters in a
+                        space made just for them—free with your membership.</h4> -->
+                        <h1 style="font-weight: 1000; font-size: 50px;" class="text-white  ">Create profiles for kids</h1>
+                        <h4 style="width: 75%;" class="text-white   fw-normal mt-4">Send children on adventures with their favourite characters in a
+                            space made just for them—free with your membership.</h4>
+                </div>
+            </div>
+            <div style="margin-top: 5%; margin-bottom: 2%;" class="col-lg-6 my-hidden-img text-end">
+                <img src="images/section5.png" height="95%" width="90%" alt="">
+            </div>
+        </div>
+    </section>
+   <hr class="my-hr">
+    <!-- faq -->
+    <div class="  faq_area section_padding_130 font-family" id="faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center w-100 col-sm-8 col-lg-6">
+                    <!-- Section Heading-->
+                    <div class="section_heading  wow fadeInUp" data-wow-delay="0.2s"
+                        style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <h1 class="my-heading px-5 text-center text-white fw-bolder ">Frequently Asked Question's </h1>
+
+                        <div class="line"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-3 justify-content-center">
+
+                <div style="width: 90%;" class="  mx-auto  col-sm-10 col-lg-10">
+                    <div class="accordion faq-accordian" id="faqAccordion">
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingOne">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">What
+                                    is Netflix?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapseOne" aria-labelledby="headingOne"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <h6 class="my-faq-text text-white">Netflix is a streaming service that offers a wide
+                                        variety of award-winning TV shows, movies, anime, documentaries and more – on
+                                        thousands of internet-connected devices.
+                                        <br> <br>
+                                        You can watch as much as you want, whenever you want, without a single ad – all
+                                        for one low monthly price. There's always something new to discover, and new TV
+                                        shows and movies are added every week!
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.3s"
+                            style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingTwo">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">How
+                                    much Netflix cost?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapseTwo" aria-labelledby="headingTwo"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <p class="my-faq-text">Watch Netflix on your smartphone, tablet, Smart TV, laptop,
+                                        or streaming device, all for one fixed monthly fee. Plans range from ₹ 149 to ₹
+                                        649 a month. No extra costs, no contracts.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.4s"
+                            style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingThree">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                    Where can I watch?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapseThree" aria-labelledby="headingThree"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <p class="my-faq-text">Watch anywhere, anytime. Sign in with your Netflix account to
+                                        watch instantly on the web at netflix.com from your personal computer or on any
+                                        internet-connected device that offers the Netflix app, including smart TVs,
+                                        smartphones, tablets, streaming media players and game consoles.
+                                        <br> <br>
+                                        You can also download your favourite shows with the iOS, Android, or Windows 10
+                                        app. Use downloads to watch while you're on the go and without an internet
+                                        connection. Take Netflix with you anywhere.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.4s"
+                            style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingfour">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefour" aria-expanded="true" aria-controls="collapsefour">
+                                    How do I cancel?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapsefour" aria-labelledby="headingfour"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <p class="my-faq-text">Netflix is flexible. There are no annoying contracts and no
+                                        commitments. You can easily cancel your account online in two clicks. There are
+                                        no cancellation fees – start or stop your account anytime.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.4s"
+                            style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingfive">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefive" aria-expanded="true" aria-controls="collapsefive">
+                                    What can I watch on Netflix?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapsefive" aria-labelledby="headingfive"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <p class="my-faq-text">Netflix has an extensive library of feature films,
+                                        documentaries, TV shows, anime, award-winning Netflix originals, and more. Watch
+                                        as much as you want, anytime you want.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 wow fadeInUp" data-wow-delay="0.4s"
+                            style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <div class="card-header" id="headingsix">
+                                <h6 class="mb-0 collapsed my-faq-text1" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsesix" aria-expanded="true" aria-controls="collapsesix">Is
+                                    Netflix good for kids?<span class="lni-chevron-up"></span></h6>
+                            </div>
+                            <div class="collapse" id="collapsesix" aria-labelledby="headingsix"
+                                data-bs-parent="#faqAccordion">
+                                <div class="card-body">
+                                    <p class="my-faq-text">The Netflix Kids experience is included in your membership to
+                                        give parents control while kids enjoy family-friendly TV shows and films in
+                                        their own space.
+                                        <br> <br>
+                                        Kids profiles come with PIN-protected parental controls that let you restrict
+                                        the maturity rating of content kids can watch and block specific titles you
+                                        don’t want kids to see.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="mt-5 row">
+                <h4 style="font-size: 20px;" class="text-white text-center fw-normal">Ready to watch? Enter your email to create or restart your
+                    membership.
+                </h4>
+            </div>
+            <div class="row mt-2 mx-5 align-items-center">
+                <div  class=" col-lg-12 text-center">
+                    <input style="background-color: #17161696; width: 31%;" class=" p-3 rounded-2 my-input-holder " type="email" placeholder="Email address">
+                    <a class="text-white mx-1 text-decoration-none " href="#"> <button
+                        style="background-color: #ef0713; font-size: 18px;"
+                        class="btn my-get-button p-3 px-lg-5 rounded-2 fw-bold my-faq-text text-white btn-danger">Get
+                        Started <i class="fa-solid text-white fa-chevron-right"></i></button></a>
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+    <hr class="my-hr">
+    <footer class="container-fluid " style="background-color: black;">
+        <div style="margin-left: 7%;" class="row ">
+            <div class="row mt-lg-4 mb-2">
+                <div class="col-lg-3 mx-lg-5 col-md-6 mb-lg-4   mt-md-0">
+                    <p style=" font-size: 15px;" class="text-muted mt-5">Questions? Call <a style=" font-size: 15px;"
+                            href="#" class="text-muted">000-800-919-1694</a> </p>
+                    <ul class="list-unstyled mt-4 mb-2">
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">FAQ</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Media centre</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Ways to Watch</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Cookie Preferences</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Speed Test</a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-lg-4  mt-lg-5  mt-md-0 mb-md-0">
+
+                    <ul class="list-unstyled mt-5 mb-2">
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">
+                                Help Centre</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Investor Relations</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Terms of Use</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Corporate Information</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">
+                                Legal Notices</a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-lg-4 mt-lg-5  mt-md-0   mb-md-0">
+
+                    <ul class="list-unstyled mb-2 mt-5">
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Account</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">
+                                Jobs</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Privacy</a>
+                        </li>
+
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Contact Us</a>
+                        </li>
+                        <li class="mb-2">
+                            <a style=" font-size: 15px;" href="#" class="text-muted">Only on Netflix</a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div  class="col-lg-2  mx-lg-5 mb-2 mt-3">
+                <div>
+
+                    <select class="form-select w-50 bg-transparent text-white fa-globe" aria-label="Default select example">
+
+                        <option selected>English</option>
+
+                        <option value="2">हिन्दी</option>
+
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+            <div  class="col-lg-2 mx-lg-5 mb-5 mt-3">
+                <div>
+                  <p class="text-muted" style="font-size: 15px;">Netflix India</p>
+                </div>
+            </div>
+        </div>
+
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
